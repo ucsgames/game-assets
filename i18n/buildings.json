@@ -1,0 +1,28 @@
+[
+    {
+        "name":                         "Test",
+        "description":                  "This is a test building for testing purposes",
+        "cost": {
+            "time":                     "2m30s"
+        },
+        "i18n": {
+            "hu": {
+                "name":                 "Teszt",
+                "description":          "Ez egy teszt épület tesztelési célokkal"
+            }
+        }
+    },
+    {
+        "name":                         "Test 2",
+        "description":                  "This is the second test building for testing purposes",
+        "cost": {
+            "time":                     "10m50s"
+        },
+        "i18n": {
+            "hu": {
+                "name":                 "2. Teszt",
+                "description":          "Ez a második teszt épület tesztelési célokkal"
+            }
+        }
+    }
+]
