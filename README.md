@@ -49,7 +49,144 @@ These shouldn't be translated.
 **Note:** Everything is surrounded by curly brackets `{}` and separated by commas `,` **EXCEPT** the last item of the enumeration.
 
 ## Contributors
-@Szayet - English and Hungarian translation
+[@Szayet](http://github.com/Szayet) - English and Hungarian translation
+
+## Currently supported languages
+
+- [ ] Afrikaans
+- [ ] Akan
+- [ ] Albanian
+- [ ] Amharic
+- [ ] Arabic
+- [ ] Armenian
+- [ ] Aromanian
+- [ ] Assamese
+- [ ] Azerbaijani
+- [ ] Azerbaijani (Turkey)
+- [ ] Bashkir
+- [ ] Basque
+- [ ] Belarusian
+- [ ] Bengali
+- [ ] Bosnian
+- [ ] Bulgarian
+- [ ] Burmese
+- [ ] Catalan
+- [ ] Catalan (Balear)
+- [ ] Chinese
+- [ ] Chinese (China)
+- [ ] Chinese (Hong Kong)
+- [ ] Chinese (Taiwan)
+- [ ] Corsican
+- [ ] Croatian
+- [ ] Czech
+- [ ] Danish
+- [ ] Dutch
+- [ ] Dutch (Belgium)
+- [x] English
+- [ ] English (Australia)
+- [ ] English (Canada)
+- [ ] English (UK)
+- [ ] Esperanto
+- [ ] Estonian
+- [ ] Faroese
+- [ ] Finnish
+- [ ] French (Belgium)
+- [ ] French (France)
+- [ ] Frisian
+- [ ] Fulah
+- [ ] Galician
+- [ ] Georgian
+- [ ] German
+- [ ] Greek
+- [ ] Guaraní
+- [ ] Hawaiian
+- [ ] Hazaragi
+- [ ] Hebrew
+- [ ] Hindi
+- [x] Hungarian
+- [ ] Icelandic
+- [ ] Indonesian
+- [ ] Irish
+- [ ] Italian
+- [ ] Japanese
+- [ ] Javanese
+- [ ] Kannada
+- [ ] Kazakh
+- [ ] Khmer
+- [ ] Kinyarwanda
+- [ ] Kirghiz
+- [ ] Korean
+- [ ] Kurdish (Sorani)
+- [ ] Lao
+- [ ] Latvian
+- [ ] Limburgish
+- [ ] Lithuanian
+- [ ] Luxembourgish
+- [ ] Macedonian
+- [ ] Malagasy
+- [ ] Malay
+- [ ] Malayalam
+- [ ] Marathi
+- [ ] Mingrelian
+- [ ] Mongolian
+- [ ] Montenegrin
+- [ ] Nepali
+- [ ] Norwegian (Bokmål)
+- [ ] Norwegian (Nynorsk)
+- [ ] Ossetic
+- [ ] Pashto
+- [ ] Persian
+- [ ] Persian (Afghanistan)
+- [ ] Polish
+- [ ] Portuguese (Brazil)
+- [ ] Portuguese (Portugal)
+- [ ] Punjabi
+- [ ] Rohingya
+- [ ] Romanian
+- [ ] Russian
+- [ ] Rusyn
+- [ ] Sakha
+- [ ] Sanskrit
+- [ ] Sardinian
+- [ ] Scottish Gaelic
+- [ ] Serbian
+- [ ] Sindhi
+- [ ] Sinhala
+- [ ] Slovak
+- [ ] Slovenian
+- [ ] Somali
+- [ ] South Azerbaijani
+- [ ] Spanish (Argentina)
+- [ ] Spanish (Chile)
+- [ ] Spanish (Colombia)
+- [ ] Spanish (Mexico)
+- [ ] Spanish (Peru)
+- [ ] Spanish (Puerto Rico)
+- [ ] Spanish (Spain)
+- [ ] Spanish (Venezuela)
+- [ ] Sundanese
+- [ ] Swahili
+- [ ] Swedish
+- [ ] Swiss German
+- [ ] Tagalog
+- [ ] Tajik
+- [ ] Tamil
+- [ ] Tamil (Sri Lanka)
+- [ ] Tatar
+- [ ] Telugu
+- [ ] Thai
+- [ ] Tibetan
+- [ ] Tigrinya
+- [ ] Turkish
+- [ ] Turkmen
+- [ ] Ukrainian
+- [ ] Uighur
+- [ ] Ukrainian
+- [ ] Urdu
+- [ ] Uzbek
+- [ ] Vietnamese
+- [ ] Walloon
+- [ ] Welsh
 
 ## Technologies
 
